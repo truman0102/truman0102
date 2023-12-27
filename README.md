@@ -1,5 +1,3 @@
-![Github Banner](https://github.com/truman0102/truman0102/blob/main/banner.png)
-
 
 ## Github Stats
 

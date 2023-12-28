@@ -76,11 +76,12 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
-  </a>
+  <!-- <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,,c++,js,html,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+  </a> -->
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,d3,docker,git,github,html,js,latex,linux,md,mysql,powershell,py,pytorch,redis,sqlite,stackoverflow,vim,vscode)](https://skillicons.dev)
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->

@@ -19,7 +19,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Pytorch, Linux, Numpy, C++**
+- 🔭 I’m usually work on **Pytorch, Linux, Numpy, C++**
 
 - 🌱 I’m currently busy with my **graduate study**
 

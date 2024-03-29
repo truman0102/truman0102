@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently busy with my **graduate study**
 
-- ☁️ I've keen interest in artificial intelligence. So,I'm learning **Deep Reinforcement Learning**
+- ☁️ I've keen interest in artificial intelligence. So,I'm learning **Deep Reinforcement Learning** and devoting myself to **EmbodiedAI**
 
 - 📝 I regularly write articles on [my blog](https://truman0102.github.io/blog/)
 
